@@ -1,0 +1,6 @@
+[submodule "protein-llm"]
+	path = protein-llm
+	url = git@github.com:okmtyuta/protein-llm.git
+[submodule "persistent-homology"]
+	path = persistent-homology
+	url = git@github.com:okmtyuta/persistent-homology.git
